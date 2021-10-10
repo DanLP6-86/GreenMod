@@ -1,0 +1,35 @@
+modLoader="javafml" #mandatory
+
+loaderVersion="[36,)" #mandatory This is typically bumped every Minecraft version by Forge. See our download page for lists of versions.
+
+license="All rights reserved"
+
+[[mods]] #mandatory
+
+modId="gitems" #mandatory
+
+version="1.16.5-1.0.0" #mandatory
+
+displayName="Green Items" #mandatory
+
+logoFile="examplemod.png" #optional
+
+credits="Thanks to my incredible self!" #optional
+
+authors="GreenBoyGreen" #optional
+
+description='''
+Green Items Mod
+'''
+[[dependencies.examplemod]] #optional
+    modId="forge" #mandatory
+    mandatory=true #mandatory
+    versionRange="[36,)" #mandatory
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.examplemod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5,1.17)"
+    ordering="NONE"
+    side="BOTH"

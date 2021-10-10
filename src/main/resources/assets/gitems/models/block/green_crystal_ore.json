@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "gitems:blocks/green_crystal_ore"
+  }
+}
