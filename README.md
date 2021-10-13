@@ -2,11 +2,17 @@
 
 ##Added Items:
 
--green sword (creative)
+- green sword (creative)
 
--crystal (creative)
+- green crystal (creative)
 
--green Block (creative)
+- green Block (creative)
+
+- green ore
+
+- crafting recipies
+
+-
 
 
 "Credits: GreenBoyGreen"
